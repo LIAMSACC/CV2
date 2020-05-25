@@ -55,9 +55,11 @@ a{
   width: 25%;
   float: left;
   margin-right: 30px;
+
 }
 .running_img{
   width: 25%;
 float: right;
 margin-left: 30px;
+clear: left;
 }
