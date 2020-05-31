@@ -4,10 +4,14 @@
   background-color: #E4F9F5;
 }
 
+.bottom-container{
+  background-color:#66BFBF;
+}
 body {
   margin-top: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+  color:#40514e;
 }
 
 h1 {
@@ -63,4 +67,35 @@ float: right;
 margin-left: 30px;
 clear: left;
 border-radius: 50%;
+}
+
+.intro
+{
+  width:30%;
+  margin: auto;
+}
+/*#background{
+  background-color: blue;*/
+/* BUTTON FROM BUTTONCREATOR.COM */
+.contact_button {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 46px;
+  line-height: 46px;
+  color: #FFFFFF;
+  font-family: Montserrat;
+  width: 185px;
+  font-size: 21px;
+  font-weight: 900;
+  padding: 12px;
+  background-color: #66BFBF;
+
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+.contact-me{
+
 }
