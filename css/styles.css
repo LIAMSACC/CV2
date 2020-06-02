@@ -8,6 +8,7 @@
 
 .bottom-container {
   background-color: #E4F9F5;
+  padding: 50px 0 20px;
 }
 
 body {
@@ -55,12 +56,25 @@ left:250px;
   line-height: 2;
 }
 
+hr{
+  border:dotted #eaf6f6;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;
+}
 p {
   line-height: 2;
 }
 
 a {
   color: #11999E;
+  font-family: Montserrat,sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: green;
 }
 
 .code_img {
@@ -104,4 +118,19 @@ a {
   text-align: center;
 }
 
+.contact_button:hover {
+   border: solid blue 1px;
+   background: #30E3CB;
+background-color: #66BFa0;
+
+  
+}
+
 .contact-me {}
+
+  .copyright{
+    color:#eaf6f6;
+    font-size: 0.76rem;
+    padding: 20px o;
+    color:#eaf6f6;
+  }
